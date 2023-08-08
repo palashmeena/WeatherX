@@ -28,7 +28,7 @@ The Weather API App is a React-based web application that allows users to search
 
 ## Demo
 
-You can view a live demo of the app [here](https://your-app-url.com).
+You can view a live demo of the app [here](https://main.d6bluhctsha9z.amplifyapp.com/).
 
 ## Getting Started
 
