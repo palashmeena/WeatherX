@@ -32,7 +32,7 @@ h1 {
 
 .app::before {
     content: "";
-    background: url("https://source.unsplash.com/1800x900/?sky") no-repeat
+    background: url("https://source.unsplash.com/1600x900/?sky") no-repeat
         center center/cover;
     position: absolute;
     width: 100%;
@@ -63,9 +63,9 @@ h1 {
 
 .container {
     max-width: 700px;
-    height: 500px;
+    height: 450px;
     margin: auto;
-    padding: 2rem;
+    padding: 1rem;
     position: relative;
     top: 5%;
     display: flex;
